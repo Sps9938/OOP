@@ -2,7 +2,7 @@
 using namespace std;
 
 class BankAccount {
-    //hiding-> senstive data
+    //hiding-> sensitive data
     private:
         double balance=0;
 
